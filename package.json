@@ -1,6 +1,6 @@
 {
   "name": "mpass-pgp-crypto",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,8 +18,7 @@
   },
   "homepage": "https://github.com/meantimeit/mpass-pgp-crypto",
   "dependencies": {
-    "openpgp": "^0.8.1",
-    "prelude-ls": "^1.1.1"
+    "openpgp": "^0.8.1"
   },
   "devDependencies": {
     "brfs": "^1.2.0",
