@@ -1,6 +1,6 @@
 {
-  "name": "mpass-pgp-crypto",
-  "version": "1.0.2",
+  "name": "b01t-pgp-crypto",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/meantimeit/mpass-pgp-crypto.git"
+    "url": "git://github.com/meantimeit/b01t-pgp-crypto.git"
   },
   "author": "Paul Connolley <paul.connolley@gmail.com>",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/meantimeit/mpass-pgp-crypto/issues"
+    "url": "https://github.com/meantimeit/b01t-pgp-crypto/issues"
   },
-  "homepage": "https://github.com/meantimeit/mpass-pgp-crypto",
+  "homepage": "https://github.com/meantimeit/b01t-pgp-crypto",
   "dependencies": {
     "openpgp": "^0.8.1"
   },
